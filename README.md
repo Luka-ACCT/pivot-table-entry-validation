@@ -1,4 +1,4 @@
-Pivot-Table-Entry-Validation
-============================
+pivot table entry validation tool
+=================================
 
-VBA for for Excel to validate entries in a Pivot table (useful for OLAP Data Cube / SQL Server Analysis Services Cube)
+VBA module for Excel to validate entries in a pivot table. Useful for OLAP Data Cube / SQL Server Analysis Services Cube connections.
